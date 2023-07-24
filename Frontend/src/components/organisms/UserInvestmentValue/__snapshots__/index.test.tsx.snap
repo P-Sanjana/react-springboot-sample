@@ -1,0 +1,492 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Portfolio Value Component should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+        style="margin-bottom: 16px; margin-top: 16px;"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-subtitle1"
+          >
+            My portfolio value
+          </h6>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+          style="margin-right: 16px;"
+        >
+          <img
+            src="donut-chart-line.svg"
+            style="margin-right: 8px;"
+          />
+          <img
+            src="line-chart-line.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-6 makeStyles-graphStats-3"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-7 makeStyles-firstBox-4"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-8 makeStyles-totalInvestment-2"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-caption"
+                    style="color: rgb(125, 125, 137);"
+                  >
+                    Total Investment
+                  </span>
+                  <div
+                    class="MuiBox-root MuiBox-root-9"
+                  >
+                    <img
+                      data-testid="crv-icon"
+                      src="arrow-right-down-line.svg"
+                    />
+                    <span
+                      class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-10 WithStyles(ForwardRef(Typography))-root-11 MuiTypography-caption"
+                      data-testid="crv-text"
+                    >
+                      
+                      %
+                    </span>
+                  </div>
+                </div>
+                <h6
+                  class="MuiTypography-root MuiTypography-h6"
+                  style="color: rgb(52, 52, 70); font-family: GraphikRegular;"
+                />
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-12 makeStyles-secondBox-5"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-13 makeStyles-totalInvestment-2"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-caption"
+                    style="color: rgb(125, 125, 137);"
+                  >
+                    Bitcoin
+                  </span>
+                  <div
+                    class="MuiBox-root MuiBox-root-14"
+                  >
+                    <img
+                      data-testid="crv-icon"
+                      src="arrow-right-up-line.svg"
+                    />
+                    <span
+                      class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-15 WithStyles(ForwardRef(Typography))-root-16 MuiTypography-caption"
+                      data-testid="crv-text"
+                    >
+                      +
+                      8.23
+                      %
+                    </span>
+                  </div>
+                </div>
+                <h6
+                  class="MuiTypography-root MuiTypography-h6"
+                  style="color: rgb(52, 52, 70); font-family: GraphikRegular;"
+                >
+                  $ 34,000
+                </h6>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              class="MuiPaper-root MuiCard-root makeStyles-card-17 MuiPaper-outlined MuiPaper-rounded"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-21 makeStyles-cardContent-18"
+              >
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="1H"
+                  >
+                    1H
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="24H"
+                  >
+                    24H
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="1W"
+                  >
+                    1W
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root makeStyles-active-20 makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="1M"
+                  >
+                    1M
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="1Y"
+                  >
+                    1Y
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                    data-testid="ALL"
+                  >
+                    ALL
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        No Data
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+      style="margin-bottom: 16px; margin-top: 16px;"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle1"
+        >
+          My portfolio value
+        </h6>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+        style="margin-right: 16px;"
+      >
+        <img
+          src="donut-chart-line.svg"
+          style="margin-right: 8px;"
+        />
+        <img
+          src="line-chart-line.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-6 makeStyles-graphStats-3"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-7 makeStyles-firstBox-4"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-8 makeStyles-totalInvestment-2"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                  style="color: rgb(125, 125, 137);"
+                >
+                  Total Investment
+                </span>
+                <div
+                  class="MuiBox-root MuiBox-root-9"
+                >
+                  <img
+                    data-testid="crv-icon"
+                    src="arrow-right-down-line.svg"
+                  />
+                  <span
+                    class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-10 WithStyles(ForwardRef(Typography))-root-11 MuiTypography-caption"
+                    data-testid="crv-text"
+                  >
+                    
+                    %
+                  </span>
+                </div>
+              </div>
+              <h6
+                class="MuiTypography-root MuiTypography-h6"
+                style="color: rgb(52, 52, 70); font-family: GraphikRegular;"
+              />
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-12 makeStyles-secondBox-5"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-13 makeStyles-totalInvestment-2"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                  style="color: rgb(125, 125, 137);"
+                >
+                  Bitcoin
+                </span>
+                <div
+                  class="MuiBox-root MuiBox-root-14"
+                >
+                  <img
+                    data-testid="crv-icon"
+                    src="arrow-right-up-line.svg"
+                  />
+                  <span
+                    class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-15 WithStyles(ForwardRef(Typography))-root-16 MuiTypography-caption"
+                    data-testid="crv-text"
+                  >
+                    +
+                    8.23
+                    %
+                  </span>
+                </div>
+              </div>
+              <h6
+                class="MuiTypography-root MuiTypography-h6"
+                style="color: rgb(52, 52, 70); font-family: GraphikRegular;"
+              >
+                $ 34,000
+              </h6>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root MuiCard-root makeStyles-card-17 MuiPaper-outlined MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-21 makeStyles-cardContent-18"
+            >
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="1H"
+                >
+                  1H
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="24H"
+                >
+                  24H
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="1W"
+                >
+                  1W
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-active-20 makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="1M"
+                >
+                  1M
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="1Y"
+                >
+                  1Y
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTypography-root  makeStyles-cardItem-19 MuiTypography-caption"
+                  data-testid="ALL"
+                >
+                  ALL
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      No Data
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

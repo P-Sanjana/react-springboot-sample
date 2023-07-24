@@ -1,0 +1,1018 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkout Page should have match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiBox-root MuiBox-root-5 makeStyles-container-1"
+        data-testid="container"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-6 makeStyles-sideNav-2"
+        >
+          <div
+            class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-outlined MuiPaper-rounded"
+          >
+            <a
+              href="/"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-9"
+                style="padding: 24px;"
+                title="Dashboard"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                  style="padding: 0px; margin: 0px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt=""
+                      src="minnet logo.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </a>
+            <a
+              href="/trade"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-10"
+                style="padding: 24px;"
+                title="Trade"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                  style="padding: 0px; margin: 0px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt=""
+                      src="dashboard-3-line.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </a>
+            <div
+              class="MuiBox-root MuiBox-root-11"
+              style="padding: 24px;"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="pie-chart-line.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-12"
+              style="padding: 24px;"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="stock-line.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-13"
+              style="padding: 24px;"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="notification-3-line.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-14"
+              style="padding: 24px;"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="exit.png"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-15 makeStyles-contentContainer-3"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-16 makeStyles-header-4"
+          >
+            <header
+              class="MuiPaper-root MuiAppBar-root MuiAppBar-positionRelative MuiAppBar-colorInherit makeStyles-appbar-17 MuiPaper-elevation4"
+            >
+              <div
+                class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-23 makeStyles-headerContainer-18"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-24"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-h6"
+                      data-testid="title"
+                    >
+                      Dashboard
+                    </h6>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-25"
+                  >
+                    <a
+                      class="makeStyles-headerButtonLink-19"
+                      data-testid="sellBtn"
+                      href="/sell"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-headerButton-20 MuiButton-containedSecondary MuiButton-disableElevation"
+                        data-testid="button-sell"
+                        href=""
+                        tabindex="0"
+                        type="button"
+                      >
+                        <span
+                          class="MuiButton-label"
+                        >
+                          SELL
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </button>
+                    </a>
+                    <a
+                      class="makeStyles-headerButtonLink-19"
+                      data-testid="buyBtn"
+                      href="/purchase"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-headerButton-20 MuiButton-containedPrimary MuiButton-disableElevation"
+                        data-testid="button-buy"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <span
+                          class="MuiButton-label"
+                        >
+                          BUY
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </button>
+                    </a>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-26 makeStyles-buttonNAvatarDivider-21"
+                  >
+                    <hr
+                      class="MuiDivider-root MuiDivider-vertical"
+                    />
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-27"
+                  >
+                    <div
+                      class="MuiAvatar-root MuiAvatar-circular makeStyles-avatarPic-22"
+                    >
+                      <img
+                        alt="pic"
+                        class="MuiAvatar-img"
+                        src="https://s3-alpha-sig.figma.com/img/973c/8b4c/05e06771ca57ec378072223b93fc6007?Expires=1635724800&Signature=LoSuQuAoiSGeFs04cT-kZICbfCNVFSd~jnfp6ffpCUDjKiWkq9dvi61je-5x7~toH3IMbNrCQrfctP-mrlVh~H7iAF-UlMNO66--TqlXExfb91MLGLnuK8O5HONWoVL0cT9Zxqx0iBMifwRo8oY~3f45YVs52Kw2FH8LwZxbYDhZCAev85Kqk7yofawgrWgZoYQJTaS~Re4TV09PF56F4wCcbZm81XaIgCbPDF2vZg~ybhPfMAeUf18TseFlsLPU1tbCigTOF3rPjeU5bSQvaBwJrDSGNUkeEdHxpfqfV4CihwWdxdXms67T5IcnBDlMR~AzVGJL~KIiu4lLZ~Fh5g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+                      />
+                    </div>
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                      style="padding: 0px; margin: 0px;"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      >
+                        <img
+                          alt=""
+                          src="chevron-down.svg"
+                        />
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </header>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-28"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-39 makeStyles-parentBox-38"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-imgGrid-30 MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <img
+                    alt="Image"
+                    class="makeStyles-image-29"
+                    src="check-line.svg"
+                  />
+                </div>
+                <div
+                  class="MuiGrid-root makeStyles-total-31 MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <h4
+                    class="MuiTypography-root makeStyles-btc-32 MuiTypography-h4"
+                  >
+                    0.0234510 BTC
+                     
+                  </h4>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-40 makeStyles-buysellcontent-33"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-content-34 MuiTypography-body2"
+                    >
+                      Purchase is completed, please check your balance in your crypto wallet
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-41 makeStyles-buttons-35"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button1-36 MuiButton-outlinedPrimary"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      <span
+                        class="MuiTypography-root MuiTypography-caption"
+                      >
+                        Buy Crypto
+                      </span>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <a
+                    href="/wallet"
+                    style="text-decoration: none;"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button2-37 MuiButton-containedPrimary"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        <span
+                          class="MuiTypography-root MuiTypography-caption"
+                        >
+                          Go To Wallet
+                        </span>
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-root-42 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-49 makeStyles-dashboard-43"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+                >
+                  Dashboard
+                </p>
+                <p
+                  class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+                >
+                  Careers
+                </p>
+                <p
+                  class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+                >
+                  Legacy & Privacy
+                </p>
+                <p
+                  class="MuiTypography-root makeStyles-left-44 MuiTypography-body2"
+                >
+                  © 2021 Minet
+                </p>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-50 makeStyles-help-46"
+              >
+                <div
+                  class="MuiFormControl-root makeStyles-dropdown-47"
+                >
+                  <div
+                    class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-51 MuiInputBase-formControl"
+                  >
+                    <div
+                      aria-haspopup="listbox"
+                      class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                      role="button"
+                      tabindex="0"
+                    >
+                      <span
+                        class="MuiTypography-root MuiTypography-caption"
+                      >
+                        English
+                      </span>
+                    </div>
+                    <input
+                      aria-hidden="true"
+                      class="MuiSelect-nativeInput"
+                      tabindex="-1"
+                      value="English"
+                    />
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                      style="padding: 0px; margin: 0px;"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      >
+                        <img
+                          alt=""
+                          src="downarrow.svg"
+                        />
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <fieldset
+                      aria-hidden="true"
+                      class="PrivateNotchedOutline-root-52 MuiOutlinedInput-notchedOutline"
+                      style="padding-left: 8px;"
+                    >
+                      <legend
+                        class="PrivateNotchedOutline-legend-53"
+                        style="width: 0.01px;"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-helpButton-48 MuiButton-outlinedPrimary"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Need Help
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiBox-root MuiBox-root-5 makeStyles-container-1"
+      data-testid="container"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-6 makeStyles-sideNav-2"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-outlined MuiPaper-rounded"
+        >
+          <a
+            href="/"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-9"
+              style="padding: 24px;"
+              title="Dashboard"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="minnet logo.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </a>
+          <a
+            href="/trade"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-10"
+              style="padding: 24px;"
+              title="Trade"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="dashboard-3-line.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </a>
+          <div
+            class="MuiBox-root MuiBox-root-11"
+            style="padding: 24px;"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+              style="padding: 0px; margin: 0px;"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <img
+                  alt=""
+                  src="pie-chart-line.svg"
+                />
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-12"
+            style="padding: 24px;"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+              style="padding: 0px; margin: 0px;"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <img
+                  alt=""
+                  src="stock-line.svg"
+                />
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-13"
+            style="padding: 24px;"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+              style="padding: 0px; margin: 0px;"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <img
+                  alt=""
+                  src="notification-3-line.svg"
+                />
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-14"
+            style="padding: 24px;"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+              style="padding: 0px; margin: 0px;"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <img
+                  alt=""
+                  src="exit.png"
+                />
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-15 makeStyles-contentContainer-3"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-16 makeStyles-header-4"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionRelative MuiAppBar-colorInherit makeStyles-appbar-17 MuiPaper-elevation4"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-23 makeStyles-headerContainer-18"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-24"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-h6"
+                    data-testid="title"
+                  >
+                    Dashboard
+                  </h6>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-25"
+                >
+                  <a
+                    class="makeStyles-headerButtonLink-19"
+                    data-testid="sellBtn"
+                    href="/sell"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-headerButton-20 MuiButton-containedSecondary MuiButton-disableElevation"
+                      data-testid="button-sell"
+                      href=""
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        SELL
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </a>
+                  <a
+                    class="makeStyles-headerButtonLink-19"
+                    data-testid="buyBtn"
+                    href="/purchase"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-headerButton-20 MuiButton-containedPrimary MuiButton-disableElevation"
+                      data-testid="button-buy"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        BUY
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-26 makeStyles-buttonNAvatarDivider-21"
+                >
+                  <hr
+                    class="MuiDivider-root MuiDivider-vertical"
+                  />
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-27"
+                >
+                  <div
+                    class="MuiAvatar-root MuiAvatar-circular makeStyles-avatarPic-22"
+                  >
+                    <img
+                      alt="pic"
+                      class="MuiAvatar-img"
+                      src="https://s3-alpha-sig.figma.com/img/973c/8b4c/05e06771ca57ec378072223b93fc6007?Expires=1635724800&Signature=LoSuQuAoiSGeFs04cT-kZICbfCNVFSd~jnfp6ffpCUDjKiWkq9dvi61je-5x7~toH3IMbNrCQrfctP-mrlVh~H7iAF-UlMNO66--TqlXExfb91MLGLnuK8O5HONWoVL0cT9Zxqx0iBMifwRo8oY~3f45YVs52Kw2FH8LwZxbYDhZCAev85Kqk7yofawgrWgZoYQJTaS~Re4TV09PF56F4wCcbZm81XaIgCbPDF2vZg~ybhPfMAeUf18TseFlsLPU1tbCigTOF3rPjeU5bSQvaBwJrDSGNUkeEdHxpfqfV4CihwWdxdXms67T5IcnBDlMR~AzVGJL~KIiu4lLZ~Fh5g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+                    />
+                  </div>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                    style="padding: 0px; margin: 0px;"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <img
+                        alt=""
+                        src="chevron-down.svg"
+                      />
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-28"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-39 makeStyles-parentBox-38"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+            >
+              <div
+                class="MuiGrid-root makeStyles-imgGrid-30 MuiGrid-item MuiGrid-grid-xs-12"
+              >
+                <img
+                  alt="Image"
+                  class="makeStyles-image-29"
+                  src="check-line.svg"
+                />
+              </div>
+              <div
+                class="MuiGrid-root makeStyles-total-31 MuiGrid-item MuiGrid-grid-xs-12"
+              >
+                <h4
+                  class="MuiTypography-root makeStyles-btc-32 MuiTypography-h4"
+                >
+                  0.0234510 BTC
+                   
+                </h4>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-40 makeStyles-buysellcontent-33"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-content-34 MuiTypography-body2"
+                  >
+                    Purchase is completed, please check your balance in your crypto wallet
+                  </p>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-41 makeStyles-buttons-35"
+              >
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button1-36 MuiButton-outlinedPrimary"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                    >
+                      Buy Crypto
+                    </span>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <a
+                  href="/wallet"
+                  style="text-decoration: none;"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button2-37 MuiButton-containedPrimary"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      <span
+                        class="MuiTypography-root MuiTypography-caption"
+                      >
+                        Go To Wallet
+                      </span>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-root-42 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-49 makeStyles-dashboard-43"
+            >
+              <p
+                class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+              >
+                Dashboard
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+              >
+                Careers
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-left-44 MuiTypography-body2 MuiTypography-colorPrimary"
+              >
+                Legacy & Privacy
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-left-44 MuiTypography-body2"
+              >
+                © 2021 Minet
+              </p>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-50 makeStyles-help-46"
+            >
+              <div
+                class="MuiFormControl-root makeStyles-dropdown-47"
+              >
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-51 MuiInputBase-formControl"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                    >
+                      English
+                    </span>
+                  </div>
+                  <input
+                    aria-hidden="true"
+                    class="MuiSelect-nativeInput"
+                    tabindex="-1"
+                    value="English"
+                  />
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                    style="padding: 0px; margin: 0px;"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <img
+                        alt=""
+                        src="downarrow.svg"
+                      />
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-52 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-53"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-helpButton-48 MuiButton-outlinedPrimary"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Need Help
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-8 makeStyles-dashboard-2"
+          >
+            <p
+              class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+            >
+              Dashboard
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+            >
+              Careers
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+            >
+              Legacy & Privacy
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-left-3 MuiTypography-body2"
+            >
+              © 2021 Minet
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-9 makeStyles-help-5"
+          >
+            <div
+              class="MuiFormControl-root makeStyles-dropdown-6"
+            >
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-10 MuiInputBase-formControl"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-caption"
+                  >
+                    English
+                  </span>
+                </div>
+                <input
+                  aria-hidden="true"
+                  class="MuiSelect-nativeInput"
+                  tabindex="-1"
+                  value="English"
+                />
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                  style="padding: 0px; margin: 0px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt=""
+                      src="downarrow.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-11 MuiOutlinedInput-notchedOutline"
+                  style="padding-left: 8px;"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legend-12"
+                    style="width: 0.01px;"
+                  >
+                    <span>
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-helpButton-7 MuiButton-outlinedPrimary"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Need Help
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-8 makeStyles-dashboard-2"
+        >
+          <p
+            class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+          >
+            Dashboard
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+          >
+            Careers
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-left-3 MuiTypography-body2 MuiTypography-colorPrimary"
+          >
+            Legacy & Privacy
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-left-3 MuiTypography-body2"
+          >
+            © 2021 Minet
+          </p>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-9 makeStyles-help-5"
+        >
+          <div
+            class="MuiFormControl-root makeStyles-dropdown-6"
+          >
+            <div
+              class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-10 MuiInputBase-formControl"
+            >
+              <div
+                aria-haspopup="listbox"
+                class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                role="button"
+                tabindex="0"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  English
+                </span>
+              </div>
+              <input
+                aria-hidden="true"
+                class="MuiSelect-nativeInput"
+                tabindex="-1"
+                value="English"
+              />
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorSecondary"
+                style="padding: 0px; margin: 0px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt=""
+                    src="downarrow.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <fieldset
+                aria-hidden="true"
+                class="PrivateNotchedOutline-root-11 MuiOutlinedInput-notchedOutline"
+                style="padding-left: 8px;"
+              >
+                <legend
+                  class="PrivateNotchedOutline-legend-12"
+                  style="width: 0.01px;"
+                >
+                  <span>
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-helpButton-7 MuiButton-outlinedPrimary"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Need Help
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

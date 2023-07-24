@@ -1,0 +1,13 @@
+sudo apt-get install mysql-server
+
+sudo mysql
+
+In mysql:
+
+create database minet;
+CREATE USER 'minetapi'@'localhost' IDENTIFIED BY 'VKqCrehpsm';
+GRANT ALL PRIVILEGES ON minet.* TO 'minetapi'@'localhost';
+flush privileges;
+exit
+
+mysql -u minetapi -p  minet < './Minet-L&DBC24.sql'

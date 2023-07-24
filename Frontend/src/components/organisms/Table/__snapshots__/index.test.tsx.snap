@@ -1,0 +1,434 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Component should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiTableContainer-root"
+      >
+        <table
+          class="MuiTable-root makeStyles-table-56"
+        >
+          <thead
+            class="MuiTableHead-root"
+          >
+            <tr
+              class="MuiTableRow-root MuiTableRow-head"
+            >
+              <th
+                class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+                scope="col"
+              >
+                <span
+                  class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-65 makeStyles-nameCellContent-62 MuiTypography-caption"
+                >
+                  Name
+                </span>
+              </th>
+              <th
+                class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+                scope="col"
+              >
+                <span
+                  class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-66 MuiTypography-caption"
+                >
+                  Price
+                </span>
+              </th>
+              <th
+                class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+                scope="col"
+              >
+                <span
+                  class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-67 MuiTypography-caption"
+                >
+                  Change
+                </span>
+              </th>
+              <th
+                class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+                scope="col"
+              >
+                <button
+                  class="MuiButtonBase-root"
+                  data-testid="sort-toggle"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-68"
+                  >
+                    <span
+                      class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-69 MuiTypography-caption"
+                    >
+                      MarketCap
+                    </span>
+                    <img
+                      alt=""
+                      height="15px"
+                      src="code-line.svg"
+                      style="transform: rotate(90deg);"
+                      width="15px"
+                    />
+                  </div>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </th>
+              <th
+                class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+                scope="col"
+              >
+                <span
+                  class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-70 MuiTypography-caption"
+                >
+                  Watch
+                </span>
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="MuiTableBody-root"
+          >
+            <tr
+              class="MuiTableRow-root makeStyles-tableRow-53"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-72 makeStyles-tableStartCell-54"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-73 makeStyles-nameCellContent-62"
+                >
+                  <img
+                    alt="currency image"
+                    class="makeStyles-currencyImage-61"
+                    src="https://s3-alpha-sig.figma.com/img/3081/886d/bb95f08981a385cf742cbde18bac74e1?Expires=1635724800&Signature=HW8nL9s0E8pc8bHC5FFlxSzUHlSavGAzYHsKxFS7KpTsVaMQ~V4HjAoKP5HggTq18zXZkiKCtt9wCxDJ9J0BvHPjp90jagsn8n3j5rQTsqtuAblTpbNaPEBcJ5h-fr5zhJ2eFe1H64iOF7DdwMaaEeMCTcgJUOJhHzVVg2YkbEsybC0j~WhqfHX9d-H4TojDJYKt-lF4ztnQ17ZBEBOJem-h1y6B3fSY2K2B83YVGWgwqHKdww7RqUVQrKljDxJ7nGJnpUiWmn7R8mjqULxr7160-YGDJV-cGlOed7nMSAM1F9ARfZWOWweT0T6aP3FOc3E3zjqh9ycAP6mCiqUUMg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-74 makeStyles-currency-59"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      Bitcoin
+                    </p>
+                    <span
+                      class="MuiTypography-root makeStyles-currencyCode-60 MuiTypography-caption"
+                    >
+                      BTC
+                    </span>
+                  </div>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-75"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2"
+                  data-testid="price"
+                >
+                  $
+                  61,048.7
+                </p>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-76"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-changeStyleNegative-58 MuiTypography-body2"
+                  data-testid="change"
+                >
+                  
+                  -2.9
+                  %
+                </p>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-77"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2"
+                  data-testid="marketCap"
+                >
+                  $1.15T
+                </p>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-78 makeStyles-tableEndCell-55"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root"
+                  data-testid="watch-toggle"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+                      data-testid="watch"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      );
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiTableContainer-root"
+    >
+      <table
+        class="MuiTable-root makeStyles-table-56"
+      >
+        <thead
+          class="MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+              scope="col"
+            >
+              <span
+                class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-65 makeStyles-nameCellContent-62 MuiTypography-caption"
+              >
+                Name
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+              scope="col"
+            >
+              <span
+                class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-66 MuiTypography-caption"
+              >
+                Price
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+              scope="col"
+            >
+              <span
+                class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-67 MuiTypography-caption"
+              >
+                Change
+              </span>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+              scope="col"
+            >
+              <button
+                class="MuiButtonBase-root"
+                data-testid="sort-toggle"
+                tabindex="0"
+                type="button"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-68"
+                >
+                  <span
+                    class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-69 MuiTypography-caption"
+                  >
+                    MarketCap
+                  </span>
+                  <img
+                    alt=""
+                    height="15px"
+                    src="code-line.svg"
+                    style="transform: rotate(90deg);"
+                    width="15px"
+                  />
+                </div>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head WithStyles(ForwardRef(TableCell))-root-63"
+              scope="col"
+            >
+              <span
+                class="MuiTypography-root WithStyles(ForwardRef(Typography))-root-64 WithStyles(ForwardRef(Typography))-root-70 MuiTypography-caption"
+              >
+                Watch
+              </span>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root makeStyles-tableRow-53"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-72 makeStyles-tableStartCell-54"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-73 makeStyles-nameCellContent-62"
+              >
+                <img
+                  alt="currency image"
+                  class="makeStyles-currencyImage-61"
+                  src="https://s3-alpha-sig.figma.com/img/3081/886d/bb95f08981a385cf742cbde18bac74e1?Expires=1635724800&Signature=HW8nL9s0E8pc8bHC5FFlxSzUHlSavGAzYHsKxFS7KpTsVaMQ~V4HjAoKP5HggTq18zXZkiKCtt9wCxDJ9J0BvHPjp90jagsn8n3j5rQTsqtuAblTpbNaPEBcJ5h-fr5zhJ2eFe1H64iOF7DdwMaaEeMCTcgJUOJhHzVVg2YkbEsybC0j~WhqfHX9d-H4TojDJYKt-lF4ztnQ17ZBEBOJem-h1y6B3fSY2K2B83YVGWgwqHKdww7RqUVQrKljDxJ7nGJnpUiWmn7R8mjqULxr7160-YGDJV-cGlOed7nMSAM1F9ARfZWOWweT0T6aP3FOc3E3zjqh9ycAP6mCiqUUMg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+                />
+                <div
+                  class="MuiBox-root MuiBox-root-74 makeStyles-currency-59"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Bitcoin
+                  </p>
+                  <span
+                    class="MuiTypography-root makeStyles-currencyCode-60 MuiTypography-caption"
+                  >
+                    BTC
+                  </span>
+                </div>
+              </div>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-75"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2"
+                data-testid="price"
+              >
+                $
+                61,048.7
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-76"
+            >
+              <p
+                class="MuiTypography-root makeStyles-changeStyleNegative-58 MuiTypography-body2"
+                data-testid="change"
+              >
+                
+                -2.9
+                %
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-77"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2"
+                data-testid="marketCap"
+              >
+                $1.15T
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body WithStyles(ForwardRef(TableCell))-root-71 WithStyles(ForwardRef(TableCell))-root-78 makeStyles-tableEndCell-55"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root"
+                data-testid="watch-toggle"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+                    data-testid="watch"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    );
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

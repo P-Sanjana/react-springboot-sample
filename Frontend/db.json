@@ -1,0 +1,621 @@
+{
+  "cryptocurrencies": [
+    {
+      "currency": "Bitcoin",
+      "price": "3406069.54",
+      "symbol": "BTC"
+    },
+    {
+      "currency": "Ethereum",
+      "price": "240048.03",
+      "symbol": "ETH"
+    },
+    {
+      "currency": "Binance",
+      "price": "30054.88",
+      "symbol": "BNB"
+    },
+    {
+      "currency": "Tether",
+      "price": "74.21",
+      "symbol": "USDT"
+    },
+    {
+      "currency": "Cardano",
+      "price": "138.22",
+      "symbol": "ADA"
+    },
+    {
+      "currency": "XRP",
+      "price": "76.73",
+      "symbol": "XRP"
+    },
+    {
+      "currency": "Dogecoin",
+      "price": "21.37",
+      "symbol": "DOGE"
+    },
+    {
+      "currency": "Polkadot",
+      "price": "1642.39",
+      "symbol": "DOT"
+    }
+  ],
+  "totalBalance": [
+    {
+      "id": 1,
+      "currency": "USD",
+      "wallet": "13001"
+    },
+    {
+      "id": 2,
+      "currency": "Bitcoin",
+      "wallet": "0.002495143839469646"
+    },
+    {
+      "id": 3,
+      "currency": "Ethereum",
+      "wallet": "0.04578"
+    },
+    {
+      "id": 4,
+      "currency": "Binance",
+      "wallet": "0.245673"
+    },
+    {
+      "id": 5,
+      "currency": "Tether",
+      "wallet": "12.786"
+    },
+    {
+      "id": 6,
+      "currency": "Cardano",
+      "wallet": "4.347"
+    },
+    {
+      "id": 7,
+      "currency": "XRP",
+      "wallet": "9.03478"
+    },
+    {
+      "id": 8,
+      "currency": "Dogecoin",
+      "wallet": "27.78"
+    },
+    {
+      "id": 9,
+      "currency": "Polkadot",
+      "wallet": "2.0478"
+    }
+  ],
+  "currency": [
+    {
+      "id": 0,
+      "coinIcon": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+      "coin": "Bitcoin",
+      "amount": "345,678,945",
+      "percentage": "1.06",
+      "marketCap": "64.2T",
+      "vol": "2.9T",
+      "color": "#F7931A",
+      "circulatingSupply": "18.8M ",
+      "coinShort": "BTC",
+      "gains": "-10.5",
+      "currentValue": "3,285,553.73",
+      "about": "The world’s first cryptocurrency, Bitcoin is stored and exchanged securely on the internet through a digital ledger known as a blockchain. Bitcoins are divisible into smaller units known as satoshis each satoshi is worth 0.00000001 bitcoin."
+    }
+  ],
+  "currencies": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "code": "BTC",
+      "color": "#F7931A",
+      "logoUrl": "https://s3-alpha-sig.figma.com/img/3081/886d/bb95f08981a385cf742cbde18bac74e1?Expires=1635724800&Signature=HW8nL9s0E8pc8bHC5FFlxSzUHlSavGAzYHsKxFS7KpTsVaMQ~V4HjAoKP5HggTq18zXZkiKCtt9wCxDJ9J0BvHPjp90jagsn8n3j5rQTsqtuAblTpbNaPEBcJ5h-fr5zhJ2eFe1H64iOF7DdwMaaEeMCTcgJUOJhHzVVg2YkbEsybC0j~WhqfHX9d-H4TojDJYKt-lF4ztnQ17ZBEBOJem-h1y6B3fSY2K2B83YVGWgwqHKdww7RqUVQrKljDxJ7nGJnpUiWmn7R8mjqULxr7160-YGDJV-cGlOed7nMSAM1F9ARfZWOWweT0T6aP3FOc3E3zjqh9ycAP6mCiqUUMg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "watch": true,
+      "price": 61048.7,
+      "priceSymbol": "$",
+      "changeRate": 1.06,
+      "marketCapStr": "$1.15T",
+      "marketCap": 1149846087372,
+      "vol24h": "$24.7B",
+      "circulatingSupply": "18M BTC"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "code": "ETH",
+      "color": "#627EEA",
+      "logoUrl": "https://s3-alpha-sig.figma.com/img/4d98/98f1/34ba65c8fe125aa34b85606d353a3805?Expires=1635724800&Signature=ZWi-M7ieJvw3jb5Bic8cl~Tivmi788PA5g-QFuQhzICw7kqszueKUPZj3AFh2dtwhZzUTYEs-oZBIc-568JGFEGxdIordUPblNhcx8ri2wVcFI4r-o7Mc5ZS2Kt~2CLi3Bd5obzA8E2J4MRaS7btErSI6Ec2wL-vShO~80NW~CcpwqgAngDaXh7-A8Zchbvdy9BrOyZxhTd1QHw0bnEQdrHFdDo~zL1KZfJFcXp2Js7783UXxKAWE1SdkzAGrJyVAyoNkrpnH0xxFwk4qRkfx~dqP4uo58nzZFWxxzS7pofUvJ2RhpWQYP--l2yvt3vs9Ah-HmL~Xvc4BAjOsdSZeg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "watch": false,
+      "price": 4115.5,
+      "priceSymbol": "$",
+      "changeRate": 2.52,
+      "marketCapStr": "$482B",
+      "marketCap": 482855471885,
+      "vol24h": "$14B",
+      "circulatingSupply": "118M ETH"
+    },
+    {
+      "id": 3,
+      "name": "Tether",
+      "code": "USDT",
+      "color": "#191971",
+      "logoUrl": "https://s3-alpha-sig.figma.com/img/dbf9/7004/d398f553f70e80bb4ee7cd586c2ed10a?Expires=1635724800&Signature=EzmjV0bzPSYQeCJbsrMONROKqq9DzqVejmvT43XktPdhLFm815QpiArWNbWMFAyxtmiff8CPXxJSWzdjC5Ix2avMGr1Jmd4yQgVp~SHjaznkJYKS~4kUCVjzpwdmelUNvXzdveu19Tl2Z5wIucBajEY6BtKekc3ZTUyYRKN09uqP8V02xOFiA43bUhl3diGzrxA20TonLxdSJQXgYdJiMk1v44xdyHsdsYBF0ku5VNnZros~AgpRRBN9n4N6NDWH1TtZf3-zhNCDKEA3DLSSoRIahCpDyJYrvmra4eOywMQJGbCmAeWKHf1dxF8cklvWW62xbO6qZmBoZRbaTUFvtA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "watch": true,
+      "price": 1,
+      "priceSymbol": "$",
+      "changeRate": 0.06,
+      "marketCapStr": "$69B",
+      "marketCap": 69616232735,
+      "vol24h": "$55B",
+      "circulatingSupply": "69.57B USDT"
+    }
+  ],
+  "transactions": [
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "day": "23",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "34000.00",
+      "month": "June",
+      "buyer": "Badgley",
+      "status": "Done"
+    },
+    {
+      "id": 2,
+      "day": "26,",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Purchased",
+      "coinAmount": "+0.000012624522046605073",
+      "price": "1043",
+      "month": "Oct",
+      "buyer": "Badgley"
+    },
+    {
+      "id": 2,
+      "day": "26,",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Purchased",
+      "coinAmount": "+0.000012624522046605073",
+      "price": "1043",
+      "month": "Oct",
+      "buyer": "Badgley"
+    },
+    {
+      "id": 2,
+      "day": "26,",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Purchased",
+      "coinAmount": "+0.000012624522046605073",
+      "price": "1043",
+      "month": "Oct",
+      "buyer": "Badgley"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "John",
+      "balanceInBTC": "0.0234510",
+      "balanceInDollar": "85553.73",
+      "totalBalanceInDollar": "102330.62",
+      "totalInvestment": "11900204",
+      "totalGains": "-1.2"
+    }
+  ],
+  "portfolio": [
+    {
+      "userId": 1,
+      "coinId": 1,
+      "currentValueInDollar": "34,000.00",
+      "change": "+1.06%",
+      "coin": "Bitcoin",
+      "coinShort": "BTC"
+    },
+    {
+      "userId": 1,
+      "coinId": 2,
+      "currentValueInDollar": "230,966.85",
+      "change": "+6.80%",
+      "coin": "Ethereum",
+      "coinShort": "ETH"
+    },
+    {
+      "userId": 1,
+      "coinId": 3,
+      "currentValueInDollar": "74.28",
+      "change": "-2.0%",
+      "coin": "Tether",
+      "coinShort": "USDT"
+    }
+  ],
+  "graph": [
+    {
+      "id": 0,
+      "timePeriod": "1M",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "data": [100, 300, 250, 320, 400]
+    },
+    {
+      "id": 1,
+      "timePeriod": "1Y",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "data": [100, 300, 250, 320, 400]
+    },
+    {
+      "id": 2,
+      "timePeriod": "1H",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "data": [100, 300, 250, 320, 400]
+    },
+    {
+      "id": 3,
+      "timePeriod": "24H",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 10"],
+      "data": [100, 300, 250, 320, 400]
+    },
+    {
+      "id": 4,
+      "timePeriod": "1W",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "data": [100, 300, 250, 320, 400]
+    },
+    {
+      "id": 5,
+      "timePeriod": "ALL",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "data": [100, 300, 250, 320, 400]
+    }
+  ],
+  "cardData": [
+    {
+      "icon": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+      "currencyType": "Bitcoin",
+      "currencyCode": "BTC",
+      "currencyValue": "50000.00",
+      "gains": "-10.5",
+      "graphData": [
+        {
+          "datetime": "Sun Oct 24 2021 22:39:09 GMT+0530 (India Standard Time)",
+          "value": 626
+        },
+        {
+          "datetime": "Sun Oct 24 2021 23:39:09 GMT+0530 (India Standard Time)",
+          "value": 552
+        },
+        {
+          "datetime": "Mon Oct 25 2021 00:39:09 GMT+0530 (India Standard Time)",
+          "value": 197
+        },
+        {
+          "datetime": "Mon Oct 25 2021 01:39:09 GMT+0530 (India Standard Time)",
+          "value": 706
+        },
+        {
+          "datetime": "Mon Oct 25 2021 02:39:09 GMT+0530 (India Standard Time)",
+          "value": 160
+        }
+      ]
+    },
+    {
+      "icon": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+      "currencyType": "Ethereum",
+      "currencyCode": "ETH",
+      "currencyValue": "26128.24",
+      "gains": "+1.5",
+      "graphData": [
+        {
+          "datetime": "Sun Oct 24 2021 22:39:09 GMT+0530 (India Standard Time)",
+          "value": 626
+        },
+        {
+          "datetime": "Sun Oct 24 2021 23:39:09 GMT+0530 (India Standard Time)",
+          "value": 552
+        },
+        {
+          "datetime": "Mon Oct 25 2021 00:39:09 GMT+0530 (India Standard Time)",
+          "value": 397
+        },
+        {
+          "datetime": "Mon Oct 25 2021 01:39:09 GMT+0530 (India Standard Time)",
+          "value": 206
+        },
+        {
+          "datetime": "Mon Oct 25 2021 02:39:09 GMT+0530 (India Standard Time)",
+          "value": 560
+        }
+      ]
+    },
+    {
+      "icon": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+      "currencyType": "Ethereum 2",
+      "currencyCode": "ETH2",
+      "currencyValue": "26128.24",
+      "gains": "+10.5",
+      "graphData": [
+        {
+          "datetime": "Sun Oct 24 2021 22:39:09 GMT+0530 (India Standard Time)",
+          "value": 626
+        },
+        {
+          "datetime": "Sun Oct 24 2021 23:39:09 GMT+0530 (India Standard Time)",
+          "value": 552
+        },
+        {
+          "datetime": "Mon Oct 25 2021 00:39:09 GMT+0530 (India Standard Time)",
+          "value": 897
+        },
+        {
+          "datetime": "Mon Oct 25 2021 01:39:09 GMT+0530 (India Standard Time)",
+          "value": 706
+        },
+        {
+          "datetime": "Mon Oct 25 2021 02:39:09 GMT+0530 (India Standard Time)",
+          "value": 860
+        }
+      ]
+    },
+    {
+      "icon": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+      "currencyType": "Tether",
+      "currencyCode": "USDT",
+      "currencyValue": "74.14",
+      "gains": "-10.5",
+      "graphData": [
+        {
+          "datetime": "Sun Oct 24 2021 22:39:09 GMT+0530 (India Standard Time)",
+          "value": 626
+        },
+        {
+          "datetime": "Sun Oct 24 2021 23:39:09 GMT+0530 (India Standard Time)",
+          "value": 552
+        },
+        {
+          "datetime": "Mon Oct 25 2021 00:39:09 GMT+0530 (India Standard Time)",
+          "value": 297
+        },
+        {
+          "datetime": "Mon Oct 25 2021 01:39:09 GMT+0530 (India Standard Time)",
+          "value": 506
+        },
+        {
+          "datetime": "Mon Oct 25 2021 02:39:09 GMT+0530 (India Standard Time)",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "multiChart": [
+    {
+      "id": 0,
+      "timePeriod": "1M",
+      "xAxisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "dataArr": [
+        {
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 300, 250, 320, 400]
+        },
+        {
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 90, 150]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "timePeriod": "1Y",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "dataArr": [
+        {
+          "index": 0,
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 300, 250, 320, 600]
+        },
+        {
+          "index": 1,
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 110, 150]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ],
+      "showLegends": false
+    },
+    {
+      "id": 2,
+      "timePeriod": "1H",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "dataArr": [
+        {
+          "index": 0,
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 600, 250, 320, 100]
+        },
+        {
+          "index": 1,
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 110, 150]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ],
+      "showLegends": false
+    },
+    {
+      "id": 3,
+      "timePeriod": "24H",
+      "axisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "dataArr": [
+        {
+          "index": 0,
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 200, 350, 320, 200]
+        },
+        {
+          "index": 1,
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 110, 150]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ],
+      "showLegends": false
+    },
+    {
+      "id": 4,
+      "timePeriod": "1W",
+      "axisLabels": ["SEP 16", "SEP 18", "SEP 20", "SEP 21", "SEP 23"],
+      "dataArr": [
+        {
+          "index": 0,
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 200, 250, 320, 400]
+        },
+        {
+          "index": 1,
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 110, 150]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ],
+      "showLegends": false
+    },
+    {
+      "id": 5,
+      "timePeriod": "ALL",
+      "xAxisLabels": ["SEP 16", "SEP 24", "SEP 30", "OCT 07", "OCT 14"],
+      "dataArr": [
+        {
+          "currencyColor": "#F7931A",
+          "currencyName": "Bitcoin",
+          "data": [100, 500, 250, 320, 200]
+        },
+        {
+          "currencyColor": "#DBC984",
+          "currencyName": "Dodge Coin",
+          "data": [50, 80, 76, 90, 250]
+        },
+        {
+          "index": 2,
+          "currencyColor": "#0052FF",
+          "currencyName": "Total Investment",
+          "data": [60, 120, 96, 90, 250]
+        }
+      ]
+    }
+  ],
+  "recentTransactions": [
+    {
+      "date": "June 23",
+      "status": "Done",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Sold",
+      "coinAmount": "-0.0234510",
+      "price": "+$34,000.00"
+    },
+    {
+      "date": "June 14",
+      "status": "Done",
+      "coin": "Bitcoin",
+      "symbol": "BTC",
+      "chipLabel": "Purchased",
+      "coinAmount": "+0.0010",
+      "price": "+$34,000.00"
+    }
+  ]
+}
